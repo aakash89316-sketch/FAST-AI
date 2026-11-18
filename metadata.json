@@ -1,0 +1,6 @@
+{
+  "name": "FAST AI",
+  "description": "Hindi-first dark-mode AI chat assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
